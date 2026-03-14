@@ -1,9 +1,3 @@
-Here is a **simple and clean README.md file** you can use for your GitHub project.
-
-You can **copy and paste this into your README.md** in GitHub.
-
----
-
 # Movie Recommendation System
 
 This project is a **simple movie recommendation system built using Python**.
